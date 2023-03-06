@@ -1,0 +1,3 @@
+C:\Users\alirıza\source\repos\ewolwe\nodejsprojem\ExpressApp2\obj\Debug\ExpressApp2.njsproj.AssemblyReference.cache
+C:\Users\alirıza\source\repos\ewolwe\nodejsprojem\ExpressApp2\obj\Debug\ExpressApp2.njsproj.CoreCompileInputs.cache
+C:\Users\alirıza\source\repos\ewolwe\nodejsprojem\ExpressApp2\bin\Microsoft.NodejsTools.WebRole.dll
